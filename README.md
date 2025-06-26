@@ -1,5 +1,5 @@
 <h1 align='center'><img alt="Arrocy logo" src="https://arrocy.com/assets/img/site/arrocy.com.png" height="75"/><br>Arrocy Whatsapp Gateway</h1>
-<div align='center'>AWG is a Frontend-Backend a management tool for interacting with the WhatsApp Web API.</div>
+<div align='center'>AWG is a Frontend-Backend management tool for interacting with the WhatsApp Web API.</div>
 
 # History
 AWG was a paid script before, but because of lack of time to continue this project, I have decided to share this for free.
