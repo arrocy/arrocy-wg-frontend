@@ -16,6 +16,12 @@ The official WhatsApp website can be found at whatsapp.com. "WhatsApp" as well a
 The maintainers of Arrocy Whatsapp Gateway do not in any way condone the use of this application in practices that violate the Terms of Service of WhatsApp. The maintainers of this application call upon the personal responsibility of its users to use this application in a fair way, as it is intended to be used.
 Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage.
 
+## Requirements
+- CPU: min. 1
+- RAM: min 1 GB
+- Storage: min. 1 GB
+- PHP: v8.2 - v8.4
+
 ## Install
 
 Clone the project:
@@ -32,11 +38,13 @@ It is highly recommended to delete these before you extract the new version:
 - /vendor/delete-all-files-and-folder-except-gitignore
 
 ## Warning
-If you are going to update from paid version and you have `Regular license`, then many users will be expired. You will need to update/edit each user from menu `Users` and move the billing_end date to new expiry date.<br>
-If you are updating from `Extended license`, just update as normal.
+- If you are from paid version, please update to v6.1.4 first! This is mandatory!
+- If you are from paid version and you have `Regular license`, then many users will be expired. You will need to update/edit each user from menu `Users` and move the billing_end date to new expiry date.
+- If you are from paid version and you have `Extended license`, just update as normal.
+- If you are from paid version, copy the payment gateway keys and secrets to the new place (menu Payment Gateways)
 
 ## Usage
-Login url: https://my-domain.com<br>
-Default username: admin<br>
-Default password: password<br>
-Documentation: https://my-domain.com/docs
+- Login url: https://my-domain.com
+- Default username: admin
+- Default password: password
+- Documentation: https://my-domain.com/docs
